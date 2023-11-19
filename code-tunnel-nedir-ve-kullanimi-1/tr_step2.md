@@ -43,9 +43,10 @@ Ardından soldaki buttonlardan remote-explorer a girin ve oradan tunnelinizi se�
 
 ![remotepanel](./assets/remote_panel.png)
 ![useit](./assets/useit.png)
-Üstteki görsellerden çalışmayan makineleri ve çalıan makineleri görebilirsiniz. (Running ve offline yazılarından)
+Üstteki görsellerden çalışmayan makineleri ve çalışan makineleri görebilirsiniz. (Running ve offline yazılarından)
 
 Bu şekilde bağlanmış oluyorsunuz. Artık siz de kendi VSCode ortamınızdan uzaktan erişmek istediğiniz makinelerinizde çalışabilirsiniz.
 
 
 #### Bitirirken
+Bu aracı platforma entegre etme amacım ve projemi şunlardan dolayı yaptım:  
