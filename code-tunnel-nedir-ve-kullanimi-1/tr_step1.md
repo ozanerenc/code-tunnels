@@ -15,6 +15,8 @@ Sonradan bahsedeceğim kurulum adımlarından sonra, BulutBilişimciler platform
 ![architecture](./assets/server-arch-latest.png)
 Online ide konseptinde görselde gözüken VSCode bloğu da yani idenin kendisi de sunucuda, uzaktan erişilen makinede çalıştırılıyor. Bu da sunucuda çok kaynak tüketimine ve web sayfasında sorunlara yol açıyor. Code server yaklaşımında ise, ki bu kullandığımız tunnels özelliğinin temelinde yatıyor; sunucuda sadece kullanılan kodlar ve iletişimi sağlayan http daemonu bulunuyor. İdenin arayüzü, eklentileri ve kısacası uzaktaki makinede tutmak istediğiniz dosyalar dışındaki herşey kullanıcının tercih ettiği platformda saklanıyor. Ki burada kullanıcının kendi alışık olduğu geliştirme ortamı konfigirasyonları olabileceğinden dolayı bu kullanıcı deneyimini geliştirir. 
 
+Ayrıca ek olarak masaüstü VSCodunuzdan doğru sürükle bırak yoluyla kendi ilgisayarınızdan dosya paylaşabilirsiniz uzak makinenize.
+
 #### Peki Nasıl Çalışır?
 Aracı uzaktan eriştiğiniz makinada çalıştırdığınızda sırasıyla şu adımlar gerçekleşir;
 
