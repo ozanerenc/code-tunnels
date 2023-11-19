@@ -3,6 +3,7 @@
 VSCode Cli, VSCode editörünün komut satırından çalışan aracıdır.
 
 VSC ile birlikte sisteme kurulabilmesiyle birlikte; kendi başına da kurulabilir.
+
 #### Kurulum
 Aracı [bu linkten](https://code.visualstudio.com/#alt-downloads) indirebilirsiniz.
 Web sayfasının en altında altını çizdiğim butonlardan sisteminize göre indirebilirsiniz. Burda CLI versiyonunu indirdiğinize dikkat ediniz.
