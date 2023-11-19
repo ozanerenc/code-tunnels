@@ -1,8 +1,8 @@
 ### VSCode Cli Nedir?
 
-VSCode Cli, VSCode editörünün komut satırından çalışan aracıdır.
+VSCode Cli, VSCode editörünün komut satırından çalışan aracıdır. Rust ile yazılmıştır ve açık kaynaklıdır.
 
-VSC ile birlikte sisteme kurulabilmesiyle birlikte; kendi başına da kurulabilir.
+VSC ile birlikte sisteme kurulabilmesiyle birlikte; kendi başına da kurulabilir. Bu eğitimde bu aracı inceleyeceğiz.
 
 #### Kurulum
 Aracı [bu linkten](https://code.visualstudio.com/#alt-downloads) indirebilirsiniz.

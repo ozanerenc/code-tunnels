@@ -1,7 +1,7 @@
 ### What is VSCode Cli?
-VSCode Cli is a command-line tool for the VSCode editor that can be run from the command line.
+VSCode Cli is a command-line tool for the VSCode editor that can be run from the command line. It is written in Rust and is open source.
 
-It can be installed alongside Visual Studio Code (VSC) or as a standalone tool.
+It can be installed alongside Visual Studio Code (VSC) or as a standalone tool. In this course, we will look further into this tool. 
 
 #### Installation
 You can download the tool from this [link](https://code.visualstudio.com/#alt-downloads).
