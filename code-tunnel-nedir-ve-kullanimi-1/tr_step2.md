@@ -47,6 +47,9 @@ Ardından soldaki buttonlardan remote-explorer a girin ve oradan tunnelinizi se�
 
 Bu şekilde bağlanmış oluyorsunuz. Artık siz de kendi VSCode ortamınızdan uzaktan erişmek istediğiniz makinelerinizde çalışabilirsiniz.
 
-
 #### Bitirirken
-Bu aracı platforma entegre etme amacım ve projemi şunlardan dolayı yaptım:  
+Bu projeyi yapma amacın platformun Thelia idesine bağlılığından kurtulmasını sağlamaktı. Ve bu araçla bunu sağladım. Ideyi kaldırma nedenim ise aracın aşırı buglu olması, docker instancelerinin kaynaklarını gereksiz kullanmasıydı. Aynı zamanda kullanılcıların kendi ortamlarından platforma bağlanmasıyla kullanıcı deneyimini de arttırmayı hedefledim.
+
+#### Sonraki Hedefler
+- Kullanılan CLI uygulaması açık kaynaklıdır ve Rust dili ile yazılmıştır. Bu aracın kaynak kodunda platformun ihtiyaçlarına göre değişiklikler yaparak ve otomasyona uygun hale getirmek.
+- VSCode'a bulut bilişimciler platformuna bağlanmayı kolaylaştıracak bir eklenti yazmak

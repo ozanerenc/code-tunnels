@@ -46,3 +46,9 @@ You can see non-operational and running machines from the images above (written 
 
 This way, you are connected. Now you can work on your machines remotely from your own VSCode environment.
 
+#### In Conclusion
+The purpose of undertaking this project was to free the platform from dependence on the Thelia IDE. I achieved this with the help of the Code Tunnels tool. The reason for removing the IDE was its excessive bugginess, and unnecessary resource usage of Docker instances. Additionally, I aimed to enhance the user experience by allowing users to connect to the platform from their own environments.
+
+#### Next Goals
+- The used CLI tool is open source and written in the Rust language. The next step is to make changes to the source code of this tool according to the platform's needs and make it suitable for automation. You can find the project.
+- Develop an extension for VSCode that facilitates connecting to the Cloud Developers platform.

@@ -15,7 +15,7 @@ After the installation steps I will mention later, including the CloudDevelopers
 
 #### How is it Different from Online IDE?
 ![architecture](./assets/server-arch-latest.png)
-In the concept of an online IDE, the VSCode block shown in the image, meaning the IDE itself, is also running on the server, on the remotely accessed machine. This leads to high resource consumption on the server and problems on the web page. In the Code Server approach, which is the basis of the tunnels feature we use; there is only the code used and the http daemon for communication on the server. The interface of the IDE, its extensions, and basically everything except the files you want to keep on the remote machine are stored on the user's preferred platform. Since the user's familiar development environment configurations can be involved here, it enhances the user experience.
+In the concept of an online IDE, the VSCode block shown in the image, meaning the IDE itself, is also running on the server, on the remotely accessed machine. This leads to high resource consumption on the server and problems on the web page. In the Code Server approach, which is the basis of the tunnels feature we use; there is only the code we use. The interface of the IDE, its extensions, and basically everything except the files you want to keep on the remote machine are stored on the user's preferred platform. Since the user's familiar development environment configurations can be involved here, it enhances the user experience.
 
 Additionally, you can share files from your desktop VSCode to the remote machine via drag and drop.
 
